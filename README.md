@@ -13,6 +13,6 @@ It has the Capablity to generate -
 
 # SCREENSHOTS - 
 <img width="956" alt="lol1" src="https://github.com/gabuja1472/Multi-Account-Generator/assets/143890633/f2710732-6db5-46ef-b345-ab77c7c6e88b">
-![image](https://github.com/gabuja1472/Multi-Account-Generator/assets/143890633/4b414bb5-1279-451f-9afb-d474237f7c1c)
 
+<img width="960" alt="lol2" src="https://github.com/gabuja1472/Multi-Account-Generator/assets/143890633/e335c797-5096-4bdf-9e63-c4f87a5a1163">
 
