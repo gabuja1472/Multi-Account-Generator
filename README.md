@@ -9,7 +9,7 @@ It has the Capablity to generate -
 4) Disney Accounts
 5) Crunchyroll Accounts
 
-# [GENERATE ACCOUNTS](bit.ly/gen-github)
+# [GENERATE ACCOUNTS - CLICK HERE ](https://sites.google.com/view/rhythmalts/home)
 
 # SCREENSHOTS - 
 <img width="956" alt="lol1" src="https://github.com/gabuja1472/Multi-Account-Generator/assets/143890633/f2710732-6db5-46ef-b345-ab77c7c6e88b">
